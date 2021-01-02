@@ -1,4 +1,4 @@
-# comp-ass
+# computer assessment
 school proj
 
 and made using html5 pepepog
